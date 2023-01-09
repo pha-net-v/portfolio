@@ -1,0 +1,13 @@
+@import url(../WorksMain__WorksMainContainer__CardBox__Article/WorksMain__WorksMainContainer__CardBox__ArticleLink/WorksMain__WorksMainContainer__CardBox__ArticleLink.css);
+
+.WorksMain__WorksMainContainer__CardBox__Article {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-area: WM__WMC__CB__ArticleArea;
+    justify-items: stretch;
+    align-items: stretch;
+}
+

@@ -1,0 +1,19 @@
+.MenuFixed__Social {
+    grid-area:  ComSocial;
+    background-color: #535355;
+    height: 155px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+   }
+
+.MenuFixed__SocialLink {
+    text-decoration: none;
+
+}
+
+.MenuFixed__SocialLinkIcon {
+    margin-top: 20px;
+    width: 27px;
+    height: 27px;
+}

@@ -1,0 +1,12 @@
+@import url("../AboutMain__AboutMainImg/AboutMain__AboutMainImg.css");
+@import url("../AboutMain__AboutMainContent/AboutMain__AboutMainContent.css");
+.AboutMain {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 3fr 2fr;
+    grid-template-areas: 'AboutMain__AboutMainContentArea AboutMain__AboutMainImgArea';
+    grid-area: AboutMainArea;
+    padding: 25px;
+    grid-column-gap: 63px;
+    align-content: center;
+}

@@ -1,0 +1,5 @@
+@import url('../WorksMain__WorksMainContent/WorksMain__WorksMainContent__Text/WorksMain__WorksMainContent__Text.css');
+@import url('../WorksMain__WorksMainContent/WorksMain__WorksMainContent__Title/WorksMain__WorksMainContent__Title.css');
+.Works__WorksMainContent {
+    grid-area: WorksMain__WorksMainContentArea;
+}

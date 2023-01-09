@@ -1,0 +1,20 @@
+@import url("../MenuFixed__Logo/MenuFixed__LogoCss/MenuFixed__Logo.css");
+@import url("../MenuFixed__About/MenuFixed__AboutCss/MenuFixed__About.css");
+@import url("../MenuFixed__Contact/MenuFixed__ContactCss/MenuFixed__Contact.css");
+@import url("../MenuFixed__Skill/MenuFixed__SkillCss/MenuFixed__Skill.css");
+@import url("../MenuFixed__Work/MenuFixed__WorkCss/MenuFixed__Work.css");
+@import url("../MenuFixed__Social/MenuFixed__SocialCss/MenuFixed__Social.css");
+@import url("../MenuFixed_Common/MenuFixed_CommonCss/MenuFixed_Common.css");
+@import url("../MenuFixed_Common/MenuFixed_CommonCss/MenuFixed_Common.css");
+@import url("../MenuFixed__Logo/MenuFixed__Logo__Link/MenuFixed__Logo__Link.css");
+
+.MenuFixed {
+    display: grid;
+    grid-area: MenuFixedArea;
+    width: auto;
+    height: 745px;
+    background-color: #535355;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-areas: 'ComLogo' 'ComAbout' 'ComSkill' 'ComWork' 'ComContact' 'ComSocial';
+
+}

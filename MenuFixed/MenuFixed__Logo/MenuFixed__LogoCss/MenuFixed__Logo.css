@@ -1,0 +1,9 @@
+.HeaderLogoImg {
+    display: grid;
+    width: 162px;
+    height: 110px;
+    margin-bottom:30px;
+    padding: 0;
+    grid-area: ComLogo;
+    justify-self: center;
+}

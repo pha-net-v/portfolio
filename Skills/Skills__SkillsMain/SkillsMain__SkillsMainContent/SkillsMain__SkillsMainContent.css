@@ -1,0 +1,5 @@
+@import url(../SkillsMain__SkillsMainContent/SkillsMain__SkillsMainContent__Title/SkillsMain__SkillsMainContent__Title.css);
+@import url(../SkillsMain__SkillsMainContent/SkillsMain__SkillsMainContent__Text/SkillsMain__SkillsMainContent__Text.css);
+.SkillsMain__SkillsMainContent {
+    grid-area: SkillsMain__SkillsMainContentArea;
+}

@@ -1,0 +1,13 @@
+@import url("../ContactMain__ContactMainImg/ContactMain__ContactMainImg.css");
+@import url("../ContactMain__ContactMainContent/ContactMain__ContactMainContent.css");
+.ContactMain {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 2fr 3fr;
+    grid-template-areas: 'ContactMain__ContactMainContentArea ContactMain__ContactMainImgArea';
+    grid-area: ContactMainArea;
+    padding: 25px;
+    grid-column-gap: 63px;
+    align-content: center;
+
+}

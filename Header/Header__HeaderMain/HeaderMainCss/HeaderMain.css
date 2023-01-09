@@ -1,0 +1,13 @@
+@import url("../__HeaderMainTitle/__HeaderMainTitleCss/__HeaderMainTitle.css");
+@import url("../__HeaderMainTrack/__HeaderMainTrackCss/__HeaderMainTrack.css");
+@import url("../__HeaderMainButton/__HeaderMainButtonCss/__HeaderMainButtonCss.css");
+
+
+.HeaderMain {
+    display: grid;
+    grid-area: HeaderMainArea;
+    width: auto;
+    background-color: #0C0C0C;
+    grid-template-rows: 455px 70px 100px;
+    grid-template-areas: 'HeaderMainTitle' 'HeaderMainTrack' 'HeaderMainButton';
+}

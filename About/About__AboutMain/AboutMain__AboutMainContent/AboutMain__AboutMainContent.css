@@ -1,0 +1,9 @@
+@import url("../AboutMain__AboutMainContent/AboutMain__AboutMainContent__Title/AboutMain__AboutMainContent__Title.css");
+@import url("../AboutMain__AboutMainContent/AboutMain__AboutMainContent__Text/AboutMain__AboutMainContent__Text.css");
+
+.AboutMain__AboutMainContent {
+    grid-area: AboutMain__AboutMainContentArea;
+    justify-self: center;
+    align-self: center;
+}
+

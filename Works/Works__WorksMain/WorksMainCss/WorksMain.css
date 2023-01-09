@@ -1,0 +1,12 @@
+@import url("../WorksMain__WorksMainContainer/WorksMain__WorksMainContainer.css");
+@import url("../WorksMain__WorksMainContent/WorksMain__WorksMainContent.css");
+.WorksMain {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 1fr 4fr;
+    grid-template-areas: 'WorksMain__WorksMainContentArea WorksMain__WorksMainContainerArea';
+    grid-area: WorksMainArea;
+    padding: 25px;
+    grid-column-gap: 63px;
+    align-content: center;
+}

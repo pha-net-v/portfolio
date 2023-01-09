@@ -1,0 +1,13 @@
+@import url(../WorksMain__WorksMainContainer/WorksMain__WorksMainContainer__CardBox/WorksMain__WorksMainContainer__CardBox.css);
+
+.WorksMain__WorksMainContainer {
+    grid-area: WorksMain__WorksMainContainerArea;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 37px;
+    justify-content: stretch;
+    align-items: stretch;
+    height: 665px;
+    display: grid;
+
+}

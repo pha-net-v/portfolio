@@ -1,0 +1,27 @@
+.HeaderMain__HeaderMainButton {
+    grid-area:HeaderMainButton;
+    width: 632px;
+    height: 93px;
+    align-self: center;
+    justify-self: right;
+    margin-top: 60px;
+    margin-right: 110px;
+    background-color: transparent;
+    border: 5px solid rgba(255, 186, 106, 38%);
+    border-radius: 35px;
+    cursor: pointer;
+
+}
+
+.HeaderMain__HeaderMainButton:hover {
+    background-color: #646C6C;
+    border: 7px solid #7E7F80;
+    color: white;
+}
+
+.HeaderMain__HeaderMainButtonTitle {
+    color: rgba(255, 186, 106, 100%);
+    font-family: 'PT Serif Caption', serif;
+    font-size: 40px;
+}
+

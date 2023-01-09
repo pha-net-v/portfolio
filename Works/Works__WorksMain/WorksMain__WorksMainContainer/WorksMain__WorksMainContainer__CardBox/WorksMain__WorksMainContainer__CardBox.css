@@ -1,0 +1,16 @@
+@import url(../WorksMain__WorksMainContainer__CardBox/WorksMain__WorksMainContainer__CardBox__Article/WorksMain__WorksMainContainer__CardBox__Article.css);
+
+.WorksMain__WorksMainContainer__CardBox {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    justify-items: stretch;
+    align-items: stretch;
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas:
+    'WM__WMC__CB__ArticleArea WM__WMC__CB__ArticleArea WM__WMC__CB__ArticleArea'
+    'WM__WMC__CB__ArticleArea WM__WMC__CB__ArticleArea WM__WMC__CB__ArticleArea';
+}

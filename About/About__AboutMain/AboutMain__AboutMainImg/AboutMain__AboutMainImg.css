@@ -1,0 +1,6 @@
+.AboutMain__AboutMainImg {
+    grid-area:AboutMain__AboutMainImgArea;
+    margin-right: 37px;
+    height: 620px;
+    width: border-box;
+}

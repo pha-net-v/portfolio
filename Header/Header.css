@@ -1,0 +1,15 @@
+@import url("../MenuFixed/MenuFixedCss/MenuFixed.css");
+@import url("../Header/Header__HeaderMain/HeaderMainCss/HeaderMain.css");
+
+.Header {
+    display: grid;
+    background-color: #720099;
+    width: auto;
+    height: 745px;
+    margin: 0;
+    padding: 0;
+    grid-template-columns: 170px 5fr;
+    grid-template-areas: 'MenuFixedArea HeaderMainArea';
+}
+
+

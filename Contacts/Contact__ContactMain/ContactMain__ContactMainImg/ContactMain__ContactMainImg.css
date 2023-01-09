@@ -1,0 +1,7 @@
+.ContactMain__ContactMainImg {
+    grid-area:ContactMain__ContactMainImgArea;
+    height: 700px;
+    margin: 0;
+    padding: 0;
+
+}

@@ -1,0 +1,7 @@
+.SkillsMain__SkillsMainImg {
+    grid-area:SkillsMain__SkillsMainImgArea;
+    margin-right: 37px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,20 @@
+@import url("../MenuFixed/MenuFixedCss/MenuFixed.css");
+@import url("./Skills__SkillsMain/SkillsMainCss/SkillsMain.css");
+
+.Skills {
+    display: grid;
+    grid-auto-columns: 170px 5fr;
+    grid-template-areas: 'MenuFixedArea SkillsMainArea';
+}
+
+body {
+    background: #0C0C0C;
+
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+

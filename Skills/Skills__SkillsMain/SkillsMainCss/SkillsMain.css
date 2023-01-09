@@ -1,0 +1,13 @@
+@import url("../SkillsMain__SkillsMainImg/SkillsMain__SkillsMainImg.css");
+@import url("../SkillsMain__SkillsMainContent/SkillsMain__SkillsMainContent.css");
+
+.SkillsMain {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 2fr 3fr;
+    grid-template-areas: 'SkillsMain__SkillsMainContentArea SkillsMain__SkillsMainImgArea';
+    grid-area: SkillsMainArea;
+    padding: 25px;
+    grid-column-gap: 63px;
+    align-content: center;
+}

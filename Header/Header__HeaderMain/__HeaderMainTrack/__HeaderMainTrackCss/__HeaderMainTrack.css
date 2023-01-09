@@ -1,0 +1,10 @@
+.HeaderMain__HeaderMainTrack {
+    grid-area:HeaderMainTrack;
+    font-family: 'PT Serif Caption', serif;
+    color: rgba(255, 255, 255, 24%) ;
+    font-size: 31px;
+    letter-spacing: 21px;
+    align-self: center;
+    justify-self: center;
+
+}

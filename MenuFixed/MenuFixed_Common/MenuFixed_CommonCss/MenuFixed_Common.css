@@ -1,0 +1,20 @@
+.MenuFixed_Common {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 7px solid #64646C;
+    background-color: #535355;
+    margin: 0;
+    padding: 0;
+}
+
+.MenuFixed__Item {
+text-decoration: none;
+}
+
+.MenuFixed__ItemTitle {
+    font-family: 'PT Serif Caption', serif;
+    color:#ffffff;
+    font-size: 25px;
+
+}
